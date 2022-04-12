@@ -1,1 +1,1 @@
-this is static libraries
+ C - Static libraries
