@@ -1,1 +1,1 @@
-## doubly linked list structure
+linked list doubly!
